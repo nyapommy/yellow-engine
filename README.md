@@ -1,2 +1,2 @@
 # Yellow Engine
-The greatest game engine
+The greatest 2d game engine
