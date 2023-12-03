@@ -1,4 +1,4 @@
 # Yellow Engine
 The greatest 2d game engine
 
-Credits: giganlak, darkitxu84
+Credits: nyapommy, darkitxu84
